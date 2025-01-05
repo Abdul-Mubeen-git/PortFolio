@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdul Mubeen</h1>
-<h3 align="center">A passionate java developer from India</h3>
+<h1 align="center">Hi</h1>
+<h3 align="center">A passionate Spring Boot Developer</h3>
 
 - 🔭 I’m currently working on [portfolio](https://abdul-mubeen-git.github.io/PortFolio/)
 
